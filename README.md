@@ -20,9 +20,10 @@ allprojects {
 Step 2. Add the dependency
 
 ``` Gradle
-dependencies {
-        compile 'com.github.kongqw:AndroidSerialPort:1.0.1'
-}
+	dependencies {
+	        implementation 'com.github.KZombie:AndroidSerialPort:1.0.1'
+	}
+
 ```
 
 ## 查看串口
